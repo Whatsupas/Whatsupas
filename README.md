@@ -2,7 +2,7 @@
   ![Screenshot](exam-483-programming-in-c.png) ![Screenshot](ms-pl-200.png) 
   
   
-  [![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
+  ![Screenshot](exam-483-programming-in-c.png)(https://codecademy.com)
   
 <!--
 **Whatsupas/Whatsupas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
