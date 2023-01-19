@@ -1,5 +1,5 @@
 ### 🌱 Achievements 🌱
- &emsp ![Screenshot](exam-483-programming-in-c.png) ![Screenshot](ms-pl-200.png) 
+  ![Screenshot](exam-483-programming-in-c.png) ![Screenshot](ms-pl-200.png) 
 <!--
 **Whatsupas/Whatsupas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
