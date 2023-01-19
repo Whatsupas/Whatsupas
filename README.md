@@ -1,7 +1,7 @@
 ### Achievements 🌱
   ![Screenshot](exam-483-programming-in-c.png) ![Screenshot](ms-pl-200.png) 
   
-  [![A mushroom-head robot]![Screenshot](exam-483-programming-in-c.png)](https://codecademy.com)
+  [![Screenshot](exam-483-programming-in-c.png)](https://codecademy.com)
   ![Screenshot](exam-483-programming-in-c.png)(https://codecademy.com)
   
 <!--
