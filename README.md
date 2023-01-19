@@ -1,5 +1,5 @@
 ### Achievements 🌱
-  ![Screenshot](exam-483-programming-in-c.png)(https://www.credly.com/badges/508e9f41-0fdb-48fe-847d-49965f1b72a4/public_url) ![Screenshot](ms-pl-200.png) 
+  [![Screenshot](exam-483-programming-in-c.png)](https://www.credly.com/badges/508e9f41-0fdb-48fe-847d-49965f1b72a4/public_url) ![Screenshot](ms-pl-200.png) 
   
   [![Screenshot](exam-483-programming-in-c.png)](https://codecademy.com)
   ![Screenshot](exam-483-programming-in-c.png)(https://codecademy.com)
