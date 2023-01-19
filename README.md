@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Screenshot](microsoft-certified-power-platform-functional-consultant-associate.png)
 <!--
 **Whatsupas/Whatsupas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
