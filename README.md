@@ -1,5 +1,5 @@
 ### Achievements 🌱
-  [![Screenshot](exam-483-programming-in-c.png)](https://www.credly.com/badges/508e9f41-0fdb-48fe-847d-49965f1b72a4/public_url) [![Screenshot](ms-pl-200.png)]([TODO](https://learn.microsoft.com/en-us/users/robertastutlys-2972/transcript/7xx10s554xmm4my)) [![Screenshot](microsoft-certified-power-platform-developer.png)](https://learn.microsoft.com/en-us/users/robertastutlys-2972/transcript/7xx10s554xmm4my)
+  [![Screenshot](exam-483-programming-in-c.png)](https://www.credly.com/badges/508e9f41-0fdb-48fe-847d-49965f1b72a4/public_url) [![Screenshot](ms-pl-200.png)](https://learn.microsoft.com/en-us/users/robertastutlys-2972/transcript/7xx10s554xmm4my)) [![Screenshot](microsoft-certified-power-platform-developer.png)](https://learn.microsoft.com/en-us/users/robertastutlys-2972/transcript/7xx10s554xmm4my)
    
 <!--
 **Whatsupas/Whatsupas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
